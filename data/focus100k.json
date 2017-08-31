@@ -1,0 +1,833 @@
+{
+ "status": "ok",
+ "data": {
+  "totalresults": 100,
+  "infos": [
+   {
+    "ID": "plug.direct/audience-data-strip-miners-are-failing-to-deliver-local-advertising-markets/",
+    "name": "articleID",
+    "type": "StringProperty"
+   }
+  ],
+  "items": [
+   {
+    "ID": "focus100k_na_175859",
+    "title": "Verizon Communications Inc.",
+    "relevance": 32,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q467752"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_99391",
+    "title": "Advertising Buyers",
+    "relevance": 30
+   },
+   {
+    "ID": "focus100k_na_50733",
+    "title": "Internet Advertising",
+    "relevance": 28
+   },
+   {
+    "ID": "focus100k_na_16732",
+    "title": "Digital Marketing",
+    "relevance": 25,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1323528"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_2254",
+    "title": "Advertising",
+    "relevance": 25,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q37038"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_814013",
+    "title": "Programmatic marketing",
+    "relevance": 22
+   },
+   {
+    "ID": "focus100k_na_162879",
+    "title": "AOL Inc.",
+    "relevance": 22
+   },
+   {
+    "ID": "focus100k_na_772275",
+    "title": "Ad-Tech Conferences",
+    "relevance": 22
+   },
+   {
+    "ID": "focus100k_na_41318",
+    "title": "Advertising and Market Research",
+    "relevance": 20
+   },
+   {
+    "ID": "focus100k_na_49697",
+    "title": "Information Retrieval, Content Discovery and Search Technologies",
+    "relevance": 17
+   },
+   {
+    "ID": "focus100k_na_768843",
+    "title": "Facebook Inc",
+    "relevance": 16,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q380"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_15943",
+    "title": "Internet Marketing",
+    "relevance": 15
+   },
+   {
+    "ID": "focus100k_na_16616",
+    "title": "Marketing Communication",
+    "relevance": 13,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q2350449"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_24557",
+    "title": "Google",
+    "relevance": 13,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q95"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_380652",
+    "title": "Digital Business World",
+    "relevance": 13,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q3270893"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_15955",
+    "title": "Direct Marketing",
+    "relevance": 12,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q677073"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_16786",
+    "title": "Telecommunications Services",
+    "relevance": 12,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q3467747"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_44493",
+    "title": "Social Media & Social Networking",
+    "relevance": 10,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q202833"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_753455",
+    "title": "Marketing Automation",
+    "relevance": 10,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q17103526"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_61286",
+    "title": "Internet Service Providers",
+    "relevance": 10,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q11371"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_3953",
+    "title": "Computing & Information Technology",
+    "relevance": 9
+   },
+   {
+    "ID": "focus100k_na_17140",
+    "title": "Mining and Quarrying",
+    "relevance": 9
+   },
+   {
+    "ID": "focus100k_na_28768",
+    "title": "Internet Community",
+    "relevance": 9
+   },
+   {
+    "ID": "focus100k_na_4141",
+    "title": "Digital Media",
+    "relevance": 9,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1076968"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_24556",
+    "title": "Search Engine",
+    "relevance": 9
+   },
+   {
+    "ID": "focus100k_na_410042",
+    "title": "IT Conferences, Fairs and Expos",
+    "relevance": 9
+   },
+   {
+    "ID": "focus100k_na_770722",
+    "title": "Business Markets",
+    "relevance": 9,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1277907"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_24521",
+    "title": "Editorial Staff (Journalists)",
+    "relevance": 8
+   },
+   {
+    "ID": "focus100k_na_148002",
+    "title": "Bargaining (Commerce)",
+    "relevance": 8,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1401706"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_108572",
+    "title": "Quarterly Finance",
+    "relevance": 7
+   },
+   {
+    "ID": "focus100k_na_30464",
+    "title": "Publishing",
+    "relevance": 7,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q3972943"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_1378",
+    "title": "Internet",
+    "relevance": 7,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q75"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_2303",
+    "title": "Marketing",
+    "relevance": 7,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q39809"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_3860",
+    "title": "Technology (General)",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q11016"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_4246",
+    "title": "Media (Communication)",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1727518"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_72161",
+    "title": "Ad Age",
+    "relevance": 6
+   },
+   {
+    "ID": "focus100k_na_721395",
+    "title": "Information Technology",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q11661"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_768983",
+    "title": "Alphabet Inc.",
+    "relevance": 6
+   },
+   {
+    "ID": "focus100k_na_769672",
+    "title": "Reporting",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q7314162"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_4408",
+    "title": "Company Information",
+    "relevance": 6
+   },
+   {
+    "ID": "focus100k_na_26982",
+    "title": "Mobile Technology",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q6887246"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_129401",
+    "title": "Short Selling",
+    "relevance": 6
+   },
+   {
+    "ID": "focus100k_na_163141",
+    "title": "Buying",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q601401"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_328981",
+    "title": "Internet Access",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1472399"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_2921",
+    "title": "Fraud & Betrayal",
+    "relevance": 6
+   },
+   {
+    "ID": "focus100k_na_756745",
+    "title": "Telecommunication Services (Sector)",
+    "relevance": 6
+   },
+   {
+    "ID": "focus100k_na_16028",
+    "title": "Internet Services",
+    "relevance": 6
+   },
+   {
+    "ID": "focus100k_na_163151",
+    "title": "Selling",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q194189"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_655882",
+    "title": "Interactive Advertising Bureau (IAB)",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q3057268"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_770602",
+    "title": "Communities",
+    "relevance": 5
+   },
+   {
+    "ID": "focus100k_na_72151",
+    "title": "Display Advertising",
+    "relevance": 5,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q2399498"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_380662",
+    "title": "Business World",
+    "relevance": 5
+   },
+   {
+    "ID": "focus100k_na_497312",
+    "title": "Company Start-Ups",
+    "relevance": 5
+   },
+   {
+    "ID": "focus100k_na_84181",
+    "title": "Local News",
+    "relevance": 5,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q6664469"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_3082",
+    "title": "Portals",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q227739"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_16789",
+    "title": "Internet and Other Information Networks",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_49705",
+    "title": "Targeted Advertising and Personalised Ads",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1628411"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_718985",
+    "title": "Financial Trading",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_769842",
+    "title": "Societal Systems",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_771072",
+    "title": "Freelance Journalists",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_803892",
+    "title": "Computer-related Events",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_44180",
+    "title": "Donald Trump",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q22686"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_582143",
+    "title": "File System Permissions",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1172314"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_909836",
+    "title": "Business",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q4830453"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_39474",
+    "title": "Retail of Books",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_63537",
+    "title": "Sales",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q194189"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_121891",
+    "title": "Target Audience",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q2604680"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_718385",
+    "title": "Stock Market Volume",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q475000"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_3164",
+    "title": "Stock and Equity Markets & Stock Exchanges",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_28851",
+    "title": "Journalism",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q11030"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_326091",
+    "title": "Internet Connection",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_774562",
+    "title": "Professionalism",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q702269"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_16837",
+    "title": "Earnings Forecast",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_16839",
+    "title": "Earnings Information",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_29226",
+    "title": "Publishing, Printing and Reproduction of Recorded Media",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_658382",
+    "title": "President of The United States",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q11696"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_721365",
+    "title": "Consumer Discretionary",
+    "relevance": 4
+   },
+   {
+    "ID": "focus100k_na_90041",
+    "title": "Media Companies and Industry",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_651082",
+    "title": "Business Profit",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_1623",
+    "title": "Metals & Minerals",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_2018",
+    "title": "Broadband Technology",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_16389",
+    "title": "Fairs, Expos and Trade Shows & Conferences",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_19650",
+    "title": "Electric Media",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_28995",
+    "title": "Entrepreuneurship",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_49400",
+    "title": "Wireless Technology",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q249"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_62855",
+    "title": "Marketing Magazines",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_722895",
+    "title": "Investment Strategy",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q2670999"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_751265",
+    "title": "Regulations",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q428148"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_120",
+    "title": "Amazon.com",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q3884"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_4222",
+    "title": "Electronic Commerce",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_19677",
+    "title": "Invention (Innovation)",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q18119757"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_655902",
+    "title": "Interactive Advertising",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q194430"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_16188",
+    "title": "Sports Teams",
+    "relevance": 3
+   },
+   {
+    "ID": "focus100k_na_28882",
+    "title": "Telecommunication",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q418"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_132092",
+    "title": "4G",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q79697"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_4376",
+    "title": "United States of America",
+    "relevance": 2,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q30"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_28998",
+    "title": "Stock Market Analysis",
+    "relevance": 2,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q475000"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_63577",
+    "title": "Automation",
+    "relevance": 2,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q184199"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_156482",
+    "title": "United States Congress",
+    "relevance": 2,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q11268"
+     }
+    ]
+   },
+   {
+    "ID": "focus100k_na_358062",
+    "title": "Federal Government of The United States",
+    "relevance": 2,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q48525"
+     }
+    ]
+   }
+  ]
+ }
+}

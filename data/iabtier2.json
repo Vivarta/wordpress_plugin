@@ -1,0 +1,167 @@
+{
+ "status": "ok",
+ "data": {
+  "totalresults": 20,
+  "infos": [
+   {
+    "ID": "plug.direct/audience-data-strip-miners-are-failing-to-deliver-local-advertising-markets/",
+    "name": "articleID",
+    "type": "StringProperty"
+   }
+  ],
+  "items": [
+   {
+    "ID": "IAB3-11",
+    "title": "Marketing",
+    "link": "http://",
+    "relevance": 14,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q7163"
+     }
+    ]
+   },
+   {
+    "ID": "IAB19",
+    "title": "Technology & Computing",
+    "link": "http://",
+    "relevance": 11
+   },
+   {
+    "ID": "IAB3-1",
+    "title": "Advertising",
+    "link": "http://",
+    "relevance": 10
+   },
+   {
+    "ID": "IAB9-15",
+    "title": "Getting Published",
+    "link": "http://",
+    "relevance": 7
+   },
+   {
+    "ID": "IAB19-35",
+    "title": "Web Search",
+    "relevance": 6,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q2360697"
+     }
+    ]
+   },
+   {
+    "ID": "IAB9-1",
+    "title": "Art / Technology",
+    "link": "http://",
+    "relevance": 5
+   },
+   {
+    "ID": "IAB19-8",
+    "title": "Computer Networking",
+    "link": "http://",
+    "relevance": 4,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q361306"
+     }
+    ]
+   },
+   {
+    "ID": "IAB3",
+    "title": "Business",
+    "link": "http://",
+    "relevance": 4
+   },
+   {
+    "ID": "IAB13-11",
+    "title": "Stocks",
+    "relevance": 3,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q7163"
+     }
+    ]
+   },
+   {
+    "ID": "IAB3-12",
+    "title": "Metals",
+    "relevance": 3
+   },
+   {
+    "ID": "IAB13",
+    "title": "Personal Finance",
+    "link": "http://",
+    "relevance": 2,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q1920219"
+     }
+    ]
+   },
+   {
+    "ID": "IAB11-3",
+    "title": "U.S. Government Resources",
+    "relevance": 2
+   },
+   {
+    "ID": "IAB13-4",
+    "title": "Financial Planning",
+    "link": "http://",
+    "relevance": 2,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q229805"
+     }
+    ]
+   },
+   {
+    "ID": "IAB1-1",
+    "title": "Books & Literature",
+    "link": "http://",
+    "relevance": 1
+   },
+   {
+    "ID": "IAB13-1",
+    "title": "Beginning Investing",
+    "relevance": 1
+   },
+   {
+    "ID": "IAB9-18",
+    "title": "Investors & Patents",
+    "relevance": 1
+   },
+   {
+    "ID": "IAB13-7",
+    "title": "Investing",
+    "relevance": 1
+   },
+   {
+    "ID": "IAB19-26",
+    "title": "Palmtops/PDAs",
+    "relevance": 1,
+    "metadata": [
+     {
+      "name": "wikidata_id",
+      "value": "Q11617"
+     }
+    ]
+   },
+   {
+    "ID": "IAB19-10",
+    "title": "Computer Reviews",
+    "relevance": 1
+   },
+   {
+    "ID": "IAB15-6",
+    "title": "Physics",
+    "relevance": 1
+   }
+  ]
+ }
+}
